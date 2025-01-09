@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there , I am Ujjwal Maurya👋
 
 <!--
 **notujjwalmaurya/notujjwalmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 Computer Science Student | Aspiring ML Engineer
+🚀 Passionate about creating impactful projects and learning new technologies.
+📚 Focused on machine learning, and open-source contributions.
+🌱 Currently exploring machine learning and AI applications.
+💡 "Code. Learn. Innovate."
