@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--👨‍💻 Computer Science Student | Aspiring ML Engineer\n
+-👨‍💻 Computer Science Student | Aspiring ML Engineer
 -🚀 Passionate about creating impactful projects and learning new technologies.
 -📚 Focused on machine learning, and open-source contributions.
 -🌱 Currently exploring machine learning and AI applications.
