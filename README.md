@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👨‍💻 Computer Science Student | Aspiring ML Engineer
-🚀 Passionate about creating impactful projects and learning new technologies.
-📚 Focused on machine learning, and open-source contributions.
-🌱 Currently exploring machine learning and AI applications.
-💡 "Code. Learn. Innovate."
-https://leetcode.com/u/ujjwalmaurya/
+-👨‍💻 Computer Science Student | Aspiring ML Engineer
+-🚀 Passionate about creating impactful projects and learning new technologies.
+-📚 Focused on machine learning, and open-source contributions.
+-🌱 Currently exploring machine learning and AI applications.
+-💡 "Code. Learn. Innovate."
+-💬 My leetcode : https://leetcode.com/u/ujjwalmaurya/
+-📫 How to reach me: https://www.linkedin.com/in/ujjwalmaurya/
